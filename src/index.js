@@ -21,5 +21,3 @@ module.exports = function getZerosCount(number) {
   
   return result;
 }
-// 84583674
-// 21145911
